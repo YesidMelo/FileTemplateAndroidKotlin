@@ -1,0 +1,5 @@
+#Carpetas que no se guardaran en el repositorio
+code/
+includes/
+internal/
+j2ee
